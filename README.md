@@ -1,0 +1,2 @@
+# BAMAZON-MYSQL
+Bamazon inventory
